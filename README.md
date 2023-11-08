@@ -1,5 +1,9 @@
 # octavioihc.github.io
 <h1>ServiTech</h1>
+-:file_folder:_Link_:
+
++ [TechSolutionApp](TechSolutionApp.pdf)
+
 ServiTech es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. Esta empresa está centrada en la creación de tecnologías digitales innovadoras pensadas para solucionar los problemas técnicos y/o domésticos que se presenten en el día a día de nuestros clientes. Nuestras propuestas se centran en solucionar tareas técnicas que se le dificulte al cliente y así optimizar su tiempo en otras actividades, por esa razón se está desarrollando "TechSolutionApp". 
 _--
 <h1>Esta aplicación permitirá a nuestros clientes acceder a servicios técnicos a través de publicaciones con vista desde la misma APP, mostrando así una variedad de servicios en función a lo que busque y requiera el cliente en ese momento. De la misma forma, también generará trabajo para las personas que lo necesiten y pueda así aportar en su economía.
