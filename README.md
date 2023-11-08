@@ -1,15 +1,10 @@
 <h1>ServiTech</h1>
--:file_folder:_Link_:
 
-+ [TechSolutionApp](TechSolutionApp.pdf)
-
-:smile: <p>ServiTech es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. Esta empresa está centrada en la creación de tecnologías digitales innovadoras pensadas para solucionar los problemas técnicos y/o domésticos que se presenten en el día a día de nuestros clientes. Nuestras propuestas se centran en solucionar tareas técnicas que se le dificulte al cliente y así optimizar su tiempo en otras actividades, por esa razón se está desarrollando "TechSolutionApp". 
-</p>
-
-<h1>¿Por qué es importante nuestro proyecto?</h1><p>
+<h1>:star:¡Bienvenido a Servitech!:star:</h1>
+<p>ServiTech es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. Esta empresa está centrada en la creación de tecnologías digitales innovadoras pensadas para solucionar los problemas técnicos y/o domésticos que se presenten en el día a día de nuestros clientes. Nuestras propuestas se centran en solucionar tareas técnicas que se le dificulte al cliente y así optimizar su tiempo en otras actividades, por esa razón se está desarrollando "TechSolutionApp". </p>
+<h1>:star:¿Por qué es importante nuestro proyecto?</h1><p>
 Esta aplicación permitirá a nuestros clientes acceder a servicios técnicos a través de publicaciones con vista desde la misma APP, mostrando así una variedad de servicios en función a lo que busque y requiera el cliente en ese momento. De la misma forma, también generará trabajo para las personas que lo necesiten y pueda así aportar en su economía.</p>
-
-<h1>Autores</h1>
+<h1>:star:Autores</h1>
 <ul>
 <li>Abellaneda Maldonado, Melvin Isaac</li>
 <li>Aaron Elias Acuña Alarcon</li>
@@ -17,8 +12,7 @@ Esta aplicación permitirá a nuestros clientes acceder a servicios técnicos a 
 <li>Carmen Pamela Peralta Esteban</li>
 <li>Leonardo Raúl Ruiz Mateo</li>
 </ul>
-
-<h1>Segmentos objetivos</h1>
+<h1>:star:Segmentos objetivos</h1>
 <h2>Consumidor</h2>
 <p>En primer lugar, consideramos la segmentación del tipo de usuario “Consumidor”, el cual es el perfil de usuario que enfocamos el objetivo principal de nuestro proyecto. Estos usuarios deben ser mayores de 18 años, de cualquier género, de cualquier estado civil y de cualquier oficio o carrera. Estos usuarios desean poder contactar con un técnico en específico para dar solución a un problema en particular en el menor tiempo posible.</p>
 <p align="center">
@@ -31,9 +25,7 @@ Esta aplicación permitirá a nuestros clientes acceder a servicios técnicos a 
 	<img src="https://blogcomparasoftware-192fc.kxcdn.com/wp-content/uploads/2020/07/Soporte-Tecnico-presencial-1-1024x576.png" width="300" height="200" alt="img-tecnico">
 </p>
 
-<h1>Principales caracteristícas del Aplicativo</h1> <h2>Técnologías aplicadas</h2>
-
-<h3>Gitflow</h3><p>En el contexto de nuestro proyecto Servitech, hemos implementado Gitflow, un enfoque de ramificación en Git diseñado para proyectos de larga duración y con numerosas confirmaciones. Con Git Flow, utilizamos ramas principales y de funciones para facilitar la gestión y actualización de las ramas. En nuestro repositorio, encontrarás dos ramas clave: "main" y "gh-pages".
+<h1>:star:Principales caracteristícas del Aplicativo</h1><h3>Gitflow</h3><p>En el contexto de nuestro proyecto Servitech, hemos implementado Gitflow, un enfoque de ramificación en Git diseñado para proyectos de larga duración y con numerosas confirmaciones. Con Git Flow, utilizamos ramas principales y de funciones para facilitar la gestión y actualización de las ramas. En nuestro repositorio, encontrarás dos ramas clave: "main" y "gh-pages".
 
 En la rama "main", hemos organizado directorios con estilos en CSS, imágenes, y la Página de inicio desarrollada en HTML (índice). Asimismo, hemos configurado un repositorio separado para los criterios de aceptación.
 Elegimos GitHub para nuestro proyecto debido a sus beneficios en términos de colaboración en equipo, seguimiento actualizado del proyecto en su totalidad y la capacidad de visualizar el archivo index.html junto con todas las modificaciones y archivos relacionados en una página de ejemplo en GitHub.
@@ -60,3 +52,12 @@ Elegimos GitHub para nuestro proyecto debido a sus beneficios en términos de co
 <p align="center">
 	<img src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo.png" width="200" height="100" alt="img-tecnico">
 </p>
+
+<h1>:star:Landing Page</h1><p>En esta sección, abordaremos el proceso de implementación de nuestra Página de
+inicio utilizando los servicios de Somee. Con el fin de lograr nuestro objetivo
+de manera efectiva, describiremos detalladamente los pasos que deben seguirse.
+</p>
+-:file_folder:_Link_:
+
++ [TechSolutionApp](TechSolutionApp.pdf)
+<h1>:star::star:End:star::star:</h1>
