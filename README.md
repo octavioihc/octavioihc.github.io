@@ -3,7 +3,7 @@
 
 + [TechSolutionApp](TechSolutionApp.pdf)
 
-:smile:<h1>ServiTech</h1> <p>ServiTech es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. Esta empresa está centrada en la creación de tecnologías digitales innovadoras pensadas para solucionar los problemas técnicos y/o domésticos que se presenten en el día a día de nuestros clientes. Nuestras propuestas se centran en solucionar tareas técnicas que se le dificulte al cliente y así optimizar su tiempo en otras actividades, por esa razón se está desarrollando "TechSolutionApp". 
+:smile: <p>ServiTech es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. Esta empresa está centrada en la creación de tecnologías digitales innovadoras pensadas para solucionar los problemas técnicos y/o domésticos que se presenten en el día a día de nuestros clientes. Nuestras propuestas se centran en solucionar tareas técnicas que se le dificulte al cliente y así optimizar su tiempo en otras actividades, por esa razón se está desarrollando "TechSolutionApp". 
 </p>
 
 <h1>¿Por qué es importante nuestro proyecto?</h1><p>
