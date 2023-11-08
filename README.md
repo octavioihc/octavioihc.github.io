@@ -1,5 +1,3 @@
-<h1>ServiTech</h1>
-
 <h1>:star:¡Bienvenido a Servitech!:star:</h1>
 <p>ServiTech es una startup liderada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) de la facultad de ingeniería. Esta empresa está centrada en la creación de tecnologías digitales innovadoras pensadas para solucionar los problemas técnicos y/o domésticos que se presenten en el día a día de nuestros clientes. Nuestras propuestas se centran en solucionar tareas técnicas que se le dificulte al cliente y así optimizar su tiempo en otras actividades, por esa razón se está desarrollando "TechSolutionApp". </p>
 <h1>:star:¿Por qué es importante nuestro proyecto?</h1><p>
@@ -37,14 +35,17 @@ Elegimos GitHub para nuestro proyecto debido a sus beneficios en términos de co
 <p align="center">
 	<img src="https://velog.velcdn.com/images/chlwnstjr94/post/0ec65c7e-1b0a-4b98-bc78-60d555924b45/image.png" width="100" height="100" alt="img-tecnico">
 </p>
-
+</p>
 <h3>CSS (Cascading Style Sheets)</h3><p>
 - CSS se utiliza para dar estilo y diseño a las páginas web creadas con HTML. Permite controlar aspectos como colores, fuentes, tamaños de texto, márgenes, bordes y más.
 - Con CSS, puedes mejorar la apariencia de tu sitio web para que sea atractivo y profesional. Puedes aplicar estilos a tus formularios, botones y elementos de navegación para que se vean bien y sean fáciles de usar.</p>
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="80" height="100" alt="img-tecnico">
 </p>
-
+<h4>Fonts Aplicados</h4>
+<ul><li>@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');</li>
+<li>@import url('https://fonts.googleapis.com/css?family=Montserrat:500,600,700');</li>
+<li>@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700');</li></ul>
 <h3>JavaScript</h3><p>
 - JavaScript es un lenguaje de programación que se utiliza para agregar interactividad y dinamismo a las páginas web. Permite crear funciones, validar formularios y responder a eventos del usuario.
 - En un proyecto de solicitud de servicios técnicos, puedes utilizar JavaScript para realizar validaciones en los formularios, como comprobar si se han completado todos los campos obligatorios antes de enviar la solicitud. También puedes usar JavaScript para mostrar mensajes de confirmación o error y para realizar cálculos en tiempo real, como la estimación de costos.
@@ -61,3 +62,5 @@ de manera efectiva, describiremos detalladamente los pasos que deben seguirse.
 
 + [TechSolutionApp](TechSolutionApp.pdf)
 <h1>:star::star:End:star::star:</h1>
+
+
