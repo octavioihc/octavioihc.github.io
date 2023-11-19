@@ -1,0 +1,141 @@
+HTML:
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="~/Content/Img/Logo.ico" type="image/x-icon" />
+    <link href="~/Content/HomeStyle/Coverage.css" rel="stylesheet" />
+    <title>Cobertura - TechSolutionApp</title>
+
+</head>
+<body>
+
+    <header>
+        <h1>¡Conectando más allá de los límites!</h1>
+        <p>Nos complace anunciar la expansión de nuestra cobertura para llevar nuestros servicios a nuevas comunidades. Este paso no solo significa llegar a más lugares, sino también comprometernos con la accesibilidad, la innovación y la mejora continua.</p>
+    </header>
+
+    <div class="container">
+        <section class="presentation">
+            <h2>Cobertura de distritos:</h2>
+            <p>Nosotros como empresa estamos trabajando con la expansion de la cobertura de los servicios tecnicos, de tal manera que llegue a mas hogares de todo el Peru.</p>
+            <div class="icon">🚀</div>
+            <p>Si tu distrito y departamento se encuentra en la lista no dudes en registrarte para que asi puedas solucionar tus problemas tecnicos.</p>
+            <h2>Lima</h2>
+            <p>- La Victoria</p>
+            <p>- San Luis</p>
+            <p>- Monterrico</p>
+            <p>- Surco</p>
+            <p>- Barranco</p>
+            <p>- Miraflores</p>
+            <p>- San Isidro</p>
+        </section>
+
+        <section class="form">
+            <h2 style="text-align:center">¡Únete ahora!</h2>
+            <form id="FrmRegistrar">
+                <input type="text" placeholder="Nombre" autocomplete="off" required>
+                <input type="email" placeholder="Correo electrónico" autocomplete="off" required>
+                <button type="submit">¡Únete!</button>
+            </form>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2023 - Desarrollado por ServiTech</p>
+    </footer>
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            $("#FrmRegistrar").on("submit", function () {
+
+                alert("REGISTRO REALIZADO");
+
+                var Url = "@Url.Action("Start","Home")";
+
+                window.open(Url, "_self");
+
+                return false;
+            });
+        });
+
+    </script>
+</body>
+</html>
+
+CSS:
+
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #906f1a;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.presentation {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.icon {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input,
+button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #906f1a;
+    color: #fff;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
