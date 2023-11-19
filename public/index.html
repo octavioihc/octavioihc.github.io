@@ -1,11 +1,13 @@
+<!DOCTYPE html>
+
 <html>
 <head>
 
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" href="Logo.ico" type="image/x-icon"/>
+    <link rel="icon" href="~/Content/Img/Logo.ico" type="image/x-icon" />
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <link href="Start.css" rel="stylesheet" />
+    <link href="~/Content/HomeStyle/Start.css" rel="stylesheet" />
     <title>Inicio - TechSolutionApp</title>
 
 </head>
@@ -25,7 +27,7 @@
                         </li>
 
                         <li class="nav-item">
-                            <a href="#price" class="nav-link">Precios</a>
+                            <a href="#price" class="nav-link">Membresias</a>
                         </li>
                         <li class="nav-item">
                             <a href="#about" class="nav-link">Acerca de</a>
@@ -42,9 +44,6 @@
                         <div class="intro-caption mt-5">
                             <h1 class="text-white mb-2">No te preocupes en invertir tiempo para buscar especialistas.</h1>
                             <p class="text-white mb-4"> En esta aplicacion podras encontrar diferentes tecnicos que se especializan en uno mas rubros. Ellos te brindaran una solucion al problema que se te presente, sin la necesidad de salir a buscar tecnicos en las calles.</p>
-                            <a href="#" class="btn btn-primary text-white mr-3">Registrarse como consumidor</a>
-                            <hr />
-                            <a href="#" class="btn btn-primary text-white mr-3">Registrarse como tecnico</a>
                             <a href="#" class="btn btn-primary text-white mr-3">Iniciar sesion</a>
                             <hr />
                         </div>
@@ -97,6 +96,7 @@
                                 </div>
                             </div>
                         </div>
+                        <a id="BtnCobertura" class="btn btn-primary text-white mr-3">Cobertura de nuestra aplicacion</a>
                     </div>
                 </div>
             </div>
@@ -105,40 +105,28 @@
         <section id="price" class="info-section sec-bg-03 bg-overlay">
             <div class="container text-white">
                 <div class="head-box text-center mb-5">
-                    <h2 class="font-abril">Elige un buen servicio a buen precio</h2>
+                    <h2 class="font-abril">Elige una membresia para acceder a los servicios</h2>
                 </div>
                 <div class="three-panel-block my-4">
                     <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-6 pl-md-5 mb-4">
                             <div class="service-block-bg text-center p-3">
-                                <div class="price-count font-abril"><span>S/</span>39</div>
-                                <h3>Hernesto Rojas</h3>
-                                <p class="px-4">...</p>
+                                <div class="price-count font-abril"><span>S/</span>0</div>
+                                <h3>FREE</h3>
+                                <p class="px-4">Tendras acceso a diversos tipos de servicios tecnico en tiempo real, ademas de un chat personalizado donde podras interactuar con el tecnico.</p>
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-6 col-sm-6 pr-md-5 mb-4">
                             <div class="service-block-bg text-center p-3">
-                                <div class="price-count font-abril"><span>S/</span>27</div>
-                                <h3>Francisco Figueroa</h3>
-                                <p class="px-4">...</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6 pl-md-5 mb-4">
-                            <div class="service-block-bg text-center p-3">
-                                <div class="price-count font-abril"><span>S/</span>20</div>
-                                <h3>Justin Reyna </h3>
-                                <p class="px-4">...</p>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-6 pr-md-5">
-                            <div class="service-block-bg text-center p-3">
-                                <div class="price-count font-abril"><span>S/</span>15</div>
-                                <h3>Abraham Valdivia</h3>
-                                <p class="px-4">...</p>
+                                <div class="price-count font-abril"><span>S/</span>10</div>
+                                <h3>GOLD</h3>
+                                <p class="px-4">La lista de tecnicos se filtraran por reseña y/o puntajes, es decir, tendras una busqueda mas confiable sobre la calidad de servicio que estas buscando.</p>
                             </div>
                         </div>
                     </div>
+
                 </div>
+                <a id="BtnCompra" class="btn btn-primary text-white mr-3">Adquiere tu membresia ya!!</a>
             </div>
         </section>
 
@@ -153,23 +141,56 @@
                             <p class="lead ml-2">
                                 Un proyecto de servicios técnicos innovador utiliza tecnología y personalización para brindar soluciones eficientes y mejorar la experiencia del cliente en un mercado siempre cambiante. La innovación en este sector marca la diferencia al ofrecer servicios más efectivos y atractivos.
                             </p>
-                            <p class="ml-2">
-                                Imagina servicios técnicos que son más rápidos, eficientes y economizadores de tu tiempo! Nuestro proyecto innovador utiliza tecnología de vanguardia para ofrecerte soluciones técnicas personalizadas y una experiencia del cliente excepcional. Estamos reinventando la forma en que experimentas el soporte técnico. Únete a nosotros en el futuro de los servicios técnicos y experimenta la diferencia.
-                            </p>
                         </div>
                     </div>
+
                     <div class="col-lg-7 col-md-12">
                         <img src="https://www.hiberus.com/crecemos-contigo/wp-content/uploads/2017/02/app-para-servicio-tecnico.jpg" />
                     </div>
                 </div>
+                <a id="BtnInformacion" class="btn btn-primary text-white mr-3">Click para mas informacion</a>
             </div>
         </section>
+
+        <footer>
+            <p style="text-align:center">&copy; 2023 - Desarrollado por ServiTech</p>
+        </footer>
     </div>
     <script src="~/Scripts/jquery-3.4.1.min.js"></script>
     <script src="~/Scripts/bootstrap.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script>
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            $("#BtnCobertura").on("click", function () {
+
+                var Url = "@Url.Action("Coverage", "Home")";
+
+                window.open(Url, "_blank");
+
+                return false;
+            });
+
+            $("#BtnCompra").on("click", function () {
+
+                var Url = "@Url.Action("Payment", "Home")";
+
+                window.open(Url, "_blank");
+
+                return false;
+            });
+
+            $("#BtnInformacion").on("click", function () {
+
+                var Url = "@Url.Action("Information", "Home")";
+
+                window.open(Url, "_blank");
+
+                return false;
+            });
+        });
 
         if ((".loader").length) {
 
